@@ -1,3 +1,4 @@
+来源：hxxps://twitter.com/360CoreSec/status/1425664480155820034
 宏代码：去混淆后的代码
   ```PowerShell
   invoke-expression 

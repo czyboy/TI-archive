@@ -1,2 +1,2 @@
-# TI-archive
+# Threat Intelligence archive
 threat intelligence archives

@@ -1,1 +1,13 @@
-test
+样本来源：hxxps://twitter.com/cyberwar_15/status/1425986033536036868
+MD5：134a9de780f1b99288bc38d6c483762c
+文件名：BIO 양식.docx
+恶意类型：文档模板外部链接
+恶意URL：http://zhtjfde.mypressonline.com/officeDocument/2006/relationships/BIOStyle.dotm
+组织确认：文档名已经内容为韩语，而且涉及到的域名为"mypressonline.com"，此域名与收录的Kimsuky相关域名相同
+相似链接：http://vnskwl.mypressonline.com/relationship/BIOStyle.dotm（MD5：863fd86868014b5cc008764816c422c5）
+
+IOCs:
+134a9de780f1b99288bc38d6c483762c(docx)
+863fd86868014b5cc008764816c422c5(dotm)
+http://zhtjfde.mypressonline.com/officeDocument/2006/relationships/BIOStyle.dotm
+http://vnskwl.mypressonline.com/relationship/BIOStyle.dotm

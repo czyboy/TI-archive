@@ -1,1 +1,14 @@
 
+来源：
+https[:]//blog.talosintelligence.com/2020/04/poetrat-covid-19-lures.html
+https[:]//twitter.com/h2jazi/status/1427267642491015174
+https[:]//valhalla.nextron-systems.com/info/rule/APT_MAL_PoetRAT_DOC_May20_4
+恶意类型：恶意宏
+特点：doc文档内嵌RAT工具的数据，由宏代码截取并储存为"simple.zip"，此文件是一个Python写的RAT工具
+IOCs:
+  3aadbf7e527fc1a050e1c97fea1cba4d
+  ba1618a981f755eb752aa5dc90bd70a4
+  b125de6915dd22f9f81616cb5b270933
+  d6cd651a3f783b4fc92ea5abea3aedda
+  
+ 

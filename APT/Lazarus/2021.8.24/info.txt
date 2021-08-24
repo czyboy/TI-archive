@@ -1,1 +1,8 @@
+文件名：Job Offer Letter Aug2021.docx
+简介：The decoy is a "Senior Manager Job Offer at Cremation Group LLC"
+恶意类型：内嵌远程模板
 
+IOCs:
+2960e19543b138a806250704a142a0f2
+https://templatebinary[.]site:41398
+https://templatebinary[.]site:41398/template_storage/normal_template/template218.dot

@@ -1,1 +1,5 @@
 
+reference：
+https://www.bleepingcomputer.com/news/security/lockfile-ransomware-uses-petitpotam-attack-to-hijack-windows-domains/
+https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-being-hacked-by-new-lockfile-ransomware/
+md5: 411599fd87fec52a617a521bd9a574b9

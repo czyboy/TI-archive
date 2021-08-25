@@ -1,0 +1,4 @@
+reference:
+  https://doublepulsar.com/multiple-threat-actors-including-a-ransomware-gang-exploiting-exchange-proxyshell-vulnerabilities-c457b1655e9c
+  https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/lockfile-ransomware-new-petitpotam-windows
+md5: 52e1fed4c521294c5de95bba958909c1(LockFile)
